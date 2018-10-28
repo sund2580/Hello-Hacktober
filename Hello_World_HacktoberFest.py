@@ -1,3 +1,1 @@
-def main():
-    print("Hello World Hacktober Fest")
-main()
+print("Hello World Hacktober Fest")
