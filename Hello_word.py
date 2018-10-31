@@ -1,6 +1,4 @@
 #Its Hello Word programm!
-muhammad zubair islam 
-
-
+#muhammad zubair islam 
 x="HELLO WORD"
 print(x)
