@@ -1,4 +1,4 @@
-# Hello-Universe-
+# Hello-Universe --
  
  ![image](https://user-images.githubusercontent.com/32227073/46553560-3560b980-c8b4-11e8-8857-d744086e65f4.png)
 
@@ -12,7 +12,7 @@
 ### It is very simple to participate. Simply submit your hello world in the language you love with its respective extension
 
 
-## Example:
+## Example:.
 ```
 #include <stdio.h>
  
