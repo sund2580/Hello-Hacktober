@@ -28,7 +28,7 @@
 
 ![image](https://user-images.githubusercontent.com/32227073/46517393-63f37b80-c845-11e8-89e1-c52df655a1e1.png)
 
-* **Click** New file
+* **Click** Create new file
 
 ![image](https://user-images.githubusercontent.com/32227073/46517473-c5b3e580-c845-11e8-8b86-71ed7ecfcc84.png)
 
@@ -37,11 +37,11 @@
 
 ![image](https://user-images.githubusercontent.com/32227073/46517494-f6941a80-c845-11e8-982f-eb22d04cc324.png)
 
-* **Click in** Commit File
+* **Click** Propose file change
 
 ![image](https://user-images.githubusercontent.com/32227073/46517592-4a9eff00-c846-11e8-8fe1-28658b9d542b.png)
 
-* **Click in** Create a Pull Request
+* **Click** Create pull request
 
 
 
