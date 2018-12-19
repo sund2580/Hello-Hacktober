@@ -9,10 +9,10 @@
 
 
 
-### It is very simple to participate. Simply submit your hello world in the language you love with its respective extension
+### It is very simple to participate. Simply submit your hello world in the language you love with its respective extension.
 
 
-## Example:.
+## Example:
 ```
 #include <stdio.h>
  
