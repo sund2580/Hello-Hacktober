@@ -6,3 +6,4 @@ char a[100];
 gets(a);
 printf("hello world!");
 }
+
