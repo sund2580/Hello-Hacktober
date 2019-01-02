@@ -1,7 +1,9 @@
-#include<stdio.h>
-int main()
+#include <iostream>
+#include <string.h>
+void main()
 {
- printf("Hello World!!");
- return 0;
+char a[100];
+gets(a);
+printf("hello world!");
 }
 

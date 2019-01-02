@@ -1,8 +1,9 @@
-class Greeting {
-  say() {
-    console.log('Hello world!');
-  }
+
+function greeter(person: string) {
+    return "Hello, " + person;
 }
 
-var greeting = new Greeting();
-greeting.say();
+let user = "sahilsharma011";
+
+console.log(greeter(user));
+>>
