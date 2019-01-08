@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[16]:
 import diwali ke patake
 
 import datetime
@@ -13,11 +12,11 @@ if hour < 10:
 elif hour < 17:
     printf("Hello World!")
 else:
-    printf("Good evening World")
+    printf("Good evening World!")
     
 
 
-# In[ ]:
+
 
 
 

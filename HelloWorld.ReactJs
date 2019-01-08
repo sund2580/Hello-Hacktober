@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>Hello World!</title>
+</head>
+<body>
+<div id="root"></div>
+<script text="text/babel">
+import React, { Component } from 'react';
+import ReactDOM from 'react-dom';
+
+class HelloWorld extends Component {
+  render() {
+    return <div><h1>Hello World!</h1></div>;
+  }
+}
+
+class App extends Component {
+  render() {
+    return <div>
+        <HelloWorld />
+      </div>;
+  }
+}
+
+ReactDOM.render(<App />, document.getElementById('root'));
+</script>
+</body>
+</html>
