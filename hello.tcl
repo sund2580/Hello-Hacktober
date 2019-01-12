@@ -1,3 +1,2 @@
-#! /bin/env tclsh
+puts "Hello, World!"
 
-puts {hello, world}
