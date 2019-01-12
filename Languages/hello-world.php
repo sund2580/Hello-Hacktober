@@ -1,3 +1,1 @@
-<?php
-echo 'Hello World!';
-?>
+<?php echo 'Hello Hacktoberfest World! nice to see you all!'; ?>

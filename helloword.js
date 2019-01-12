@@ -1,0 +1,5 @@
+helloWord = () => {
+
+alert("Hello word");
+
+}
