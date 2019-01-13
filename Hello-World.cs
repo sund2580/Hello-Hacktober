@@ -17,3 +17,4 @@ namespace HelloWorld
         }
     }
 }
+exit(0)
