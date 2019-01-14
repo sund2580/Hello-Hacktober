@@ -1,2 +1,2 @@
-import datetime
-print('Hello ',datetime.datetime.now())
+
+print("Hello Hacktober")
