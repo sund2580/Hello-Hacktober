@@ -1,0 +1,12 @@
+#include<iostream.h>
+#include<conio.h>
+#include<stdio.h>
+void main()
+{
+clrscr();
+char Name[25];
+cout<<"Enter Your Name ";
+gets(Name);
+cout<<"Hello! Mr/Mrs. "<<Name<<" \nWelcome to Programming World!";
+getch(); 
+}
