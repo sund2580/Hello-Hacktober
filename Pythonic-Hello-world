@@ -1,0 +1,4 @@
+hello_word="Hello World"
+
+for letter in hello_word:
+    print(letter)

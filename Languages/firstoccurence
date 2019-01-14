@@ -1,0 +1,61 @@
+#include <iostream>
+using namespace std;
+
+	//code
+	int main() {
+		int n;
+		
+
+	cin>>n;
+	
+	int a[n],i,j,temp,t,f,l,mid,k;
+	
+	for(i=0;i<n;i++)
+	{
+		
+		cin>>a[i];
+	}
+	
+
+	
+
+	
+	cin>>k;
+	
+	f=0;
+	l=n-1;
+	
+	while(f<=l)
+	{
+		mid=(f+l)/2;
+		if(mid==0 && a[mid]==k)
+		{
+			cout<<mid;
+			break;
+		}
+		
+		 if(a[mid]==k && a[mid-1]!=k)
+		{	
+			cout<<mid;
+			break;}
+			
+		
+		
+		if(a[mid]<k)
+		f=mid+1;
+		else
+			{
+				l=mid-1;
+			}
+		
+
+	
+	
+	if(f>l)
+	{
+		cout<<-1;
+	}
+}
+
+	return 0;
+}
