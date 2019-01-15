@@ -1,5 +1,12 @@
 public class Hello{
+  
 public static void main(Strings args[]){
-System.out.printtln("Hello world!!");
+  boolean spanish = true;
+  if (spanish) {
+    System.out.printtln("¡Hola Mundo!");    
+  }
+  else{
+    System.out.printtln("Hello World!");
+    }
   }
 }
