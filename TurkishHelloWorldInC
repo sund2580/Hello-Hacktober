@@ -1,0 +1,7 @@
+#include <stdio.h>
+ 
+              int main() {
+ 
+               printf("Merhaba D%cnya!,129");
+               return 0;
+               }
