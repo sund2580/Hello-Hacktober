@@ -1,5 +1,4 @@
 public class Hello{
-  
 public static void main(Strings args[]){
   boolean spanish = true;
   if (spanish) {
@@ -8,5 +7,6 @@ public static void main(Strings args[]){
   else{
     System.out.printtln("Hello World!");
     }
+
   }
 }
